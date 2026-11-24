@@ -217,6 +217,8 @@ def summarize_task_session(df: pd.DataFrame, correct_rewarded_score: bool = True
         outcomes = test_trials["correct"].to_numpy().astype(int)
         accuracy = test_trials["correct"].mean()
         calibration_converted = convertCalibration(estimates, outcomes, n_keys=N_CONFIDENCE_KEYS)
+        # Retrospective analysis composite; this does not reconstruct the
+        # historical webapp display or establish the bonuses actually paid.
         rewarded_score = (accuracy + calibration_converted) / 2
         if correct_rewarded_score:
             rewarded_score = max(rewarded_score, 0)

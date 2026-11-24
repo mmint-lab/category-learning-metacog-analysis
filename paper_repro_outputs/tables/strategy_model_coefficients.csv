@@ -34,13 +34,13 @@ additive,outcome_variance,Outcome Variance,C(decision_strategy)[T.Chose randomly
 additive,outcome_variance,Outcome Variance,C(decision_strategy)[T.Trusted gut],0.01840544573828533,0.00562338224335345,0.007383819070010516,0.029427072406560145
 additive,outcome_variance,Outcome Variance,C(test)[T.1],0.00633009132012153,0.004900238780738909,-0.0032742002057731976,0.015934382846016257
 additive,outcome_variance,Outcome Variance,C(test)[T.2],-0.0029601904720971783,0.0050046735724827915,-0.012769170428542857,0.0068487894843485
-additive,rewarded_score,Rewarded Score,Intercept,0.7276673795014315,0.020807140428451516,0.6868861336403992,0.7684486253624637
-additive,rewarded_score,Rewarded Score,C(classification_strategy)[T.No strategy],0.019812812522568866,0.035974454283838025,-0.05069582223723633,0.09032144728237405
-additive,rewarded_score,Rewarded Score,C(classification_strategy)[T.Subset of components],0.05199583948174893,0.019667769084309165,0.013447720420252648,0.0905439585432452
-additive,rewarded_score,Rewarded Score,C(decision_strategy)[T.Chose randomly],-0.09760892063667413,0.037259862569668074,-0.1706369093421356,-0.024580931931212677
-additive,rewarded_score,Rewarded Score,C(decision_strategy)[T.Trusted gut],-0.03203742277420585,0.01771556495763962,-0.06675929205695935,0.0026844465085476554
-additive,rewarded_score,Rewarded Score,C(test)[T.1],0.03470926685753147,0.016673972924867934,0.002028880445594336,0.06738965326946861
-additive,rewarded_score,Rewarded Score,C(test)[T.2],0.05887257987862541,0.016979411011617353,0.02559354581715259,0.09215161394009823
+additive,rewarded_score,Rewarded Score,Intercept,0.7335185077984692,0.019625191185087352,0.695053839885985,0.7719831757109533
+additive,rewarded_score,Rewarded Score,C(classification_strategy)[T.No strategy],0.0216443572104112,0.033683443505728744,-0.04437397893610672,0.08766269335692911
+additive,rewarded_score,Rewarded Score,C(classification_strategy)[T.Subset of components],0.053098926365849126,0.018586402840040813,0.01667024619721616,0.0895276065344821
+additive,rewarded_score,Rewarded Score,C(decision_strategy)[T.Chose randomly],-0.08391056087284099,0.0349245446869865,-0.15236141063579423,-0.015459711109887753
+additive,rewarded_score,Rewarded Score,C(decision_strategy)[T.Trusted gut],-0.030192184546852237,0.016696990502235977,-0.0629176845814421,0.002533315487737626
+additive,rewarded_score,Rewarded Score,C(test)[T.1],0.03217241260793873,0.015415372296514329,0.0019588380984941443,0.062385987117383315
+additive,rewarded_score,Rewarded Score,C(test)[T.2],0.05531311497326697,0.015708227774838254,0.02452555427363224,0.0861006756729017
 two_way,accuracy,Accuracy,Intercept,0.5729524176611493,0.03678767764333498,0.5008498944053434,0.6450549409169553
 two_way,accuracy,Accuracy,C(classification_strategy)[T.No strategy],0.09423383750057159,0.09507492520948115,-0.0921095917428507,0.28057726674399386
 two_way,accuracy,Accuracy,C(classification_strategy)[T.Subset of components],0.10819295932606696,0.041520833200948716,0.02681362164411255,0.18957229700802136
@@ -136,22 +136,22 @@ two_way,outcome_variance,Outcome Variance,C(decision_strategy)[T.Chose randomly]
 two_way,outcome_variance,Outcome Variance,C(decision_strategy)[T.Trusted gut]:C(test)[T.1],-0.007312309748373321,0.011780054760146397,-0.030400792814169884,0.01577617331742324
 two_way,outcome_variance,Outcome Variance,C(decision_strategy)[T.Chose randomly]:C(test)[T.2],0.009739374798651881,0.04445711403185791,-0.0773949675603799,0.09687371715768366
 two_way,outcome_variance,Outcome Variance,C(decision_strategy)[T.Trusted gut]:C(test)[T.2],-0.00020038011752465925,0.012114550131504483,-0.023944462064178423,0.023543701829129102
-two_way,rewarded_score,Rewarded Score,Intercept,0.6971914030022711,0.03134125512539058,0.6357636717262242,0.7586191342783181
-two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.No strategy],0.09980790168209697,0.08331040700660443,-0.06347749558822108,0.263093298952415
-two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.Subset of components],0.0941346904161588,0.03552590750327956,0.024505191191629583,0.163764189640688
-two_way,rewarded_score,Rewarded Score,C(decision_strategy)[T.Chose randomly],-0.16944960631360897,0.18665961108823806,-0.5352957214148089,0.19639650878759093
-two_way,rewarded_score,Rewarded Score,C(decision_strategy)[T.Trusted gut],-0.018552874324100525,0.051863214997095404,-0.12020290784086511,0.08309715919266407
-two_way,rewarded_score,Rewarded Score,C(test)[T.1],0.07742051422180853,0.03972982767701111,-0.0004485171371158836,0.15528954558073294
-two_way,rewarded_score,Rewarded Score,C(test)[T.2],0.09643286229117325,0.03801302409403943,0.021928704123402656,0.17093702045894382
-two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.No strategy]:C(decision_strategy)[T.Chose randomly],0.020740173178421837,0.17573950307282382,-0.32370292350527896,0.3651832698621227
-two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.Subset of components]:C(decision_strategy)[T.Chose randomly],-0.025254336667309606,0.1879752707616357,-0.3936790973442806,0.3431704240096614
-two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.No strategy]:C(decision_strategy)[T.Trusted gut],-0.0550147009941878,0.08433160860765895,-0.22030161662352737,0.11027221463515176
-two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.Subset of components]:C(decision_strategy)[T.Trusted gut],-0.014908230083482837,0.049727168319970684,-0.11237168904378653,0.08255522887682085
-two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.No strategy]:C(test)[T.1],-0.10679879919919102,0.08854583607810922,-0.2803454488932724,0.06674785049489038
-two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.Subset of components]:C(test)[T.1],-0.06852327895063048,0.0454551166348588,-0.15761367046802122,0.020567112566760262
-two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.No strategy]:C(test)[T.2],-0.08818781914672445,0.09531504779237819,-0.2750018800044997,0.09862624171105079
-two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.Subset of components]:C(test)[T.2],-0.04540480293632957,0.04331491871182981,-0.13030048360479607,0.039490877732136935
-two_way,rewarded_score,Rewarded Score,C(decision_strategy)[T.Chose randomly]:C(test)[T.1],0.11780609860603605,0.08271436144153624,-0.04431107082360353,0.27992326803567563
-two_way,rewarded_score,Rewarded Score,C(decision_strategy)[T.Trusted gut]:C(test)[T.1],0.02315594283342624,0.039281889837981206,-0.053835146493686856,0.10014703216053934
-two_way,rewarded_score,Rewarded Score,C(decision_strategy)[T.Chose randomly]:C(test)[T.2],0.11954799989703149,0.1475039743426261,-0.16955447739103588,0.40865047718509884
-two_way,rewarded_score,Rewarded Score,C(decision_strategy)[T.Trusted gut]:C(test)[T.2],-0.018385294311837316,0.040429453195473766,-0.0976255664896137,0.06085497786593906
+two_way,rewarded_score,Rewarded Score,Intercept,0.7074928935007843,0.029453337694263827,0.6497654123955312,0.7652203746060373
+two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.No strategy],0.09132309527973709,0.07777284665098551,-0.06110888313135107,0.24375507369082525
+two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.Subset of components],0.08877471281938218,0.03335439141547922,0.023401306918790957,0.15414811871997341
+two_way,rewarded_score,Rewarded Score,C(decision_strategy)[T.Chose randomly],-0.13811990405665606,0.17373225282558324,-0.47862886254780623,0.20238905443449415
+two_way,rewarded_score,Rewarded Score,C(decision_strategy)[T.Trusted gut],-0.020003043045392705,0.04882119620938133,-0.11569082929794351,0.07568474320715811
+two_way,rewarded_score,Rewarded Score,C(test)[T.1],0.06818176950307184,0.03696321346160716,-0.004264797634544293,0.14062833664068797
+two_way,rewarded_score,Rewarded Score,C(test)[T.2],0.08761436950160248,0.035367626799379624,0.018295094756164795,0.15693364424704015
+two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.No strategy]:C(decision_strategy)[T.Chose randomly],0.022048569376921,0.16420861796261457,-0.29979440778090055,0.3438915465347426
+two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.Subset of components]:C(decision_strategy)[T.Chose randomly],-0.02680330145309314,0.1747246640459594,-0.36925735019403405,0.3156507472878478
+two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.No strategy]:C(decision_strategy)[T.Trusted gut],-0.04879201610793035,0.07943168045399965,-0.20447524902926384,0.10689121681340313
+two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.Subset of components]:C(decision_strategy)[T.Trusted gut],-0.012969969052330168,0.046841917932634834,-0.10477844116707535,0.07883850306241502
+two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.No strategy]:C(test)[T.1],-0.0954609624629276,0.08259374391919157,-0.2573417258928672,0.06641980096701197
+two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.Subset of components]:C(test)[T.1],-0.057047201941966025,0.042315260484348874,-0.13998358848772074,0.025889184603788695
+two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.No strategy]:C(test)[T.2],-0.07968232160044351,0.0887211084957805,-0.25357249892064393,0.09420785571975689
+two_way,rewarded_score,Rewarded Score,C(classification_strategy)[T.Subset of components]:C(test)[T.2],-0.038850688958732914,0.04033098376724714,-0.11789796460360685,0.04019658668614103
+two_way,rewarded_score,Rewarded Score,C(decision_strategy)[T.Chose randomly]:C(test)[T.1],0.08652975270802891,0.0772414550159279,-0.06486071723666047,0.23792022265271828
+two_way,rewarded_score,Rewarded Score,C(decision_strategy)[T.Trusted gut]:C(test)[T.1],0.022427071257578913,0.036577814882360525,-0.04926412854502091,0.09411827106017873
+two_way,rewarded_score,Rewarded Score,C(decision_strategy)[T.Chose randomly]:C(test)[T.2],0.0882479596230198,0.137191958416433,-0.18064333784170566,0.35713925708774524
+two_way,rewarded_score,Rewarded Score,C(decision_strategy)[T.Trusted gut]:C(test)[T.2],-0.012481933861584861,0.03766610458734318,-0.0863061422906964,0.06134227456752668

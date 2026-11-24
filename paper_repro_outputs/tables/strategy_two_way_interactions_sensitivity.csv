@@ -14,6 +14,6 @@ two_way,resolution,Resolution,Decision x Session,4,0.19854563925852192,0.9953867
 two_way,outcome_variance,Outcome Variance,Classification x Decision,4,1.3919241886115836,0.8455974100873613,0.9953867424186903,18,False,False
 two_way,outcome_variance,Outcome Variance,Classification x Session,4,1.9103112622359233,0.7522505486408431,0.9953867424186903,18,False,False
 two_way,outcome_variance,Outcome Variance,Decision x Session,4,0.5919481037761514,0.9639542193021804,0.9953867424186903,18,False,False
-two_way,rewarded_score,Rewarded Score,Classification x Decision,4,1.02309941899887,0.9062733684459845,0.9953867424186903,18,False,False
-two_way,rewarded_score,Rewarded Score,Classification x Session,4,2.7418378481990224,0.6019136319945919,0.9953867424186903,18,False,False
-two_way,rewarded_score,Rewarded Score,Decision x Session,4,3.1339436333963047,0.5356657602990547,0.9953867424186903,18,False,False
+two_way,rewarded_score,Rewarded Score,Classification x Decision,4,1.0615667693590305,0.9003211336088109,0.9953867424186903,18,False,False
+two_way,rewarded_score,Rewarded Score,Classification x Session,4,2.314288514101006,0.678168827910755,0.9953867424186903,18,False,False
+two_way,rewarded_score,Rewarded Score,Decision x Session,4,2.127145966694914,0.7123869507476034,0.9953867424186903,18,False,False

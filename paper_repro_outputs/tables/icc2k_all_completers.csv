@@ -4,4 +4,4 @@ brier_score,Brier Score,ICC2k,"Two-way random effects, absolute agreement",Mean 
 calibration,Calibration,ICC2k,"Two-way random effects, absolute agreement",Mean of 3 administrations,3,80,0.3901783702988802,1.6765184732588343,0.0031558765945586026,[0.13 0.59],0.13,0.59
 resolution,Resolution,ICC2k,"Two-way random effects, absolute agreement",Mean of 3 administrations,3,80,0.22111212085247078,1.3204099657294266,0.07146704977164574,[-0.09  0.46],-0.09,0.46
 outcome_variance,Outcome Variance,ICC2k,"Two-way random effects, absolute agreement",Mean of 3 administrations,3,80,0.5568009229884707,2.2736170409394187,6.274294075656513e-06,[0.36 0.7 ],0.36,0.7
-rewarded_score,Rewarded Score,ICC2k,"Two-way random effects, absolute agreement",Mean of 3 administrations,3,80,0.40074640139323553,1.7208334359252115,0.002048654739413962,[0.15 0.59],0.15,0.59
+rewarded_score,Rewarded Score,ICC2k,"Two-way random effects, absolute agreement",Mean of 3 administrations,3,80,0.43507741580971004,1.830317700127168,0.000684980368650481,[0.19 0.62],0.19,0.62

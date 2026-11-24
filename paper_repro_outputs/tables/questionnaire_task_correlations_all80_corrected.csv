@@ -8,60 +8,60 @@ bfi10_agreeableness,outcome_variance,Outcome Variance,80,0.22744872245196418,0.0
 bfi10_neuroticism,brier_score,Brier Score,80,-0.21104670597840142,0.060220477466858206,1.0,0.5288225873251662,False,False,False
 bapq_aloof,outcome_variance,Outcome Variance,80,-0.20800572680267534,0.0640997075545656,1.0,0.5288225873251662,False,False,False
 bfi10_neuroticism,outcome_variance,Outcome Variance,80,-0.20106364790259462,0.07371539693899204,1.0,0.5405795775526083,False,False,False
-bapq_pragmatic_language,calibration,Calibration,80,0.18045919779034747,0.10918788273459415,1.0,0.6182948318962769,False,False,False
-bfi10_extraversion,accuracy,Accuracy,80,-0.17350968981498177,0.12375716339586285,1.0,0.6182948318962769,False,False,False
-bfi10_neuroticism,accuracy,Accuracy,80,0.16876564928034954,0.13452718389801613,1.0,0.6182948318962769,False,False,False
-bapq_aloof,accuracy,Accuracy,80,0.16785008565653517,0.13668513364084334,1.0,0.6182948318962769,False,False,False
-bapq_rigid,resolution,Resolution,80,0.16546346529062259,0.14243336673270832,1.0,0.6182948318962769,False,False,False
-bapq_rigid,outcome_variance,Outcome Variance,80,-0.15791187708868973,0.16182132254537396,1.0,0.6182948318962769,False,False,False
-bapq_pragmatic_language,brier_score,Brier Score,80,0.1553488304138821,0.1688267862102261,1.0,0.6182948318962769,False,False,False
-bapq_rigid,accuracy,Accuracy,80,0.15501424408892012,0.16975751232479144,1.0,0.6182948318962769,False,False,False
-bapq_aloof,brier_score,Brier Score,80,-0.1508495223008168,0.18165994424019516,1.0,0.6182948318962769,False,False,False
-bfi10_agreeableness,brier_score,Brier Score,80,0.14813015432071341,0.18975252506872486,1.0,0.6182948318962769,False,False,False
-bapq_rigid,rewarded_score,Rewarded Score,80,0.14768428434059366,0.1911038613011959,1.0,0.6182948318962769,False,False,False
-bfi10_neuroticism,rewarded_score,Rewarded Score,80,0.1458519555102509,0.19673017378517899,1.0,0.6182948318962769,False,False,False
-bfi10_extraversion,rewarded_score,Rewarded Score,80,-0.14107426290626804,0.21195751852119427,1.0,0.6358725555635828,False,False,False
-bapq_rigid,brier_score,Brier Score,80,-0.13584907478153133,0.22954684106574025,1.0,0.6586996308842981,False,False,False
-bapq_aloof,rewarded_score,Rewarded Score,80,0.1291423579053566,0.25358145412745375,1.0,0.6757041463740248,False,False,False
-bfi10_neuroticism,calibration,Calibration,80,-0.12850585885632193,0.2559485402931912,1.0,0.6757041463740248,False,False,False
-bapq_pragmatic_language,rewarded_score,Rewarded Score,80,-0.11571026246931407,0.30673659508826445,1.0,0.7786390490702098,False,False,False
+bapq_pragmatic_language,calibration,Calibration,80,0.18045919779034747,0.10918788273459415,1.0,0.5963650787874211,False,False,False
+bfi10_extraversion,accuracy,Accuracy,80,-0.17350968981498177,0.12375716339586285,1.0,0.5963650787874211,False,False,False
+bfi10_neuroticism,accuracy,Accuracy,80,0.16876564928034954,0.13452718389801613,1.0,0.5963650787874211,False,False,False
+bapq_aloof,accuracy,Accuracy,80,0.16785008565653517,0.13668513364084334,1.0,0.5963650787874211,False,False,False
+bapq_rigid,resolution,Resolution,80,0.16546346529062259,0.14243336673270832,1.0,0.5963650787874211,False,False,False
+bapq_rigid,outcome_variance,Outcome Variance,80,-0.15791187708868973,0.16182132254537396,1.0,0.5963650787874211,False,False,False
+bapq_pragmatic_language,brier_score,Brier Score,80,0.1553488304138821,0.1688267862102261,1.0,0.5963650787874211,False,False,False
+bapq_rigid,accuracy,Accuracy,80,0.15501424408892012,0.16975751232479144,1.0,0.5963650787874211,False,False,False
+bfi10_neuroticism,rewarded_score,Rewarded Score,80,0.1546630143143773,0.17073858836861255,1.0,0.5963650787874211,False,False,False
+bfi10_extraversion,rewarded_score,Rewarded Score,80,-0.15141188084181878,0.18001823340042222,1.0,0.5963650787874211,False,False,False
+bapq_aloof,brier_score,Brier Score,80,-0.1508495223008168,0.18165994424019516,1.0,0.5963650787874211,False,False,False
+bfi10_agreeableness,brier_score,Brier Score,80,0.14813015432071341,0.18975252506872486,1.0,0.5963650787874211,False,False,False
+bapq_rigid,brier_score,Brier Score,80,-0.13584907478153133,0.22954684106574025,1.0,0.673323129777044,False,False,False
+bapq_rigid,rewarded_score,Rewarded Score,80,0.13438783435602528,0.23464290886169717,1.0,0.673323129777044,False,False,False
+bfi10_neuroticism,calibration,Calibration,80,-0.12850585885632193,0.2559485402931912,1.0,0.690282603661291,False,False,False
+bapq_aloof,rewarded_score,Rewarded Score,80,0.1270364008642339,0.26147068320503447,1.0,0.690282603661291,False,False,False
+bapq_pragmatic_language,rewarded_score,Rewarded Score,80,-0.11793690876568859,0.2974583821942962,1.0,0.7550866624932135,False,False,False
 asrs_inattention,outcome_variance,Outcome Variance,80,-0.10308919160669444,0.36283648368010335,1.0,0.8869336267735859,False,False,False
-bfi10_conscientiousness,rewarded_score,Rewarded Score,80,-0.09687513239919159,0.392632219637727,1.0,0.9086668084825988,False,False,False
+bfi10_conscientiousness,rewarded_score,Rewarded Score,80,-0.09591000384761651,0.3973869241641988,1.0,0.9086668084825988,False,False,False
 bfi10_extraversion,calibration,Calibration,80,0.09553113474543332,0.39926268857568736,1.0,0.9086668084825988,False,False,False
 bfi10_neuroticism,resolution,Resolution,80,0.08949990258531337,0.42982051612632116,1.0,0.9325833099760654,False,False,False
 bfi10_conscientiousness,accuracy,Accuracy,80,-0.08792159636771607,0.43803155468572774,1.0,0.9325833099760654,False,False,False
-bfi10_openness,resolution,Resolution,80,-0.08090457019460591,0.47558942562312684,1.0,0.9550858130416485,False,False,False
-asrs_hyperactivity_impulsivity,resolution,Resolution,80,-0.07687370221713002,0.49792275507349903,1.0,0.9550858130416485,False,False,False
-asrs_inattention,accuracy,Accuracy,80,0.07379716971624292,0.5153295940693227,1.0,0.9550858130416485,False,False,False
-bfi10_conscientiousness,brier_score,Brier Score,80,0.07120646243193474,0.5302242366331652,1.0,0.9550858130416485,False,False,False
-bfi10_conscientiousness,calibration,Calibration,80,0.06628246086293665,0.5591121533214822,1.0,0.9550858130416485,False,False,False
-bfi10_conscientiousness,outcome_variance,Outcome Variance,80,0.06480042556477698,0.567951227392285,1.0,0.9550858130416485,False,False,False
-bapq_pragmatic_language,accuracy,Accuracy,80,-0.06337498081312422,0.5765141462810474,1.0,0.9550858130416485,False,False,False
-bfi10_openness,outcome_variance,Outcome Variance,80,-0.06299826893485573,0.5787870598295104,1.0,0.9550858130416485,False,False,False
-bapq_pragmatic_language,outcome_variance,Outcome Variance,80,0.062297843683664006,0.5830240546376098,1.0,0.9550858130416485,False,False,False
-phq9_na,outcome_variance,Outcome Variance,80,-0.05554970656581597,0.624551357451512,1.0,0.9550858130416485,False,False,False
-asrs_hyperactivity_impulsivity,brier_score,Brier Score,80,0.050064458014888985,0.6591990209155559,1.0,0.9550858130416485,False,False,False
-bfi10_conscientiousness,resolution,Resolution,80,0.04887136656494742,0.6668344514836911,1.0,0.9550858130416485,False,False,False
-asrs_inattention,calibration,Calibration,80,0.04781066292147518,0.6736512041582916,1.0,0.9550858130416485,False,False,False
-bfi10_agreeableness,accuracy,Accuracy,80,-0.03891197648202911,0.7318305550919011,1.0,0.9550858130416485,False,False,False
-asrs_inattention,resolution,Resolution,80,0.03698218945986579,0.7446632781685469,1.0,0.9550858130416485,False,False,False
-asrs_hyperactivity_impulsivity,outcome_variance,Outcome Variance,80,0.036843629584289786,0.7455874036044174,1.0,0.9550858130416485,False,False,False
-bapq_rigid,calibration,Calibration,80,-0.03427112926893093,0.7628086259790717,1.0,0.9550858130416485,False,False,False
-bfi10_openness,accuracy,Accuracy,80,0.03251409101310878,0.7746379609248906,1.0,0.9550858130416485,False,False,False
-bapq_pragmatic_language,resolution,Resolution,80,0.03076673387771972,0.7864532224574596,1.0,0.9550858130416485,False,False,False
-bfi10_agreeableness,rewarded_score,Rewarded Score,80,0.02755066045241828,0.8083243199894932,1.0,0.9550858130416485,False,False,False
-bfi10_agreeableness,calibration,Calibration,80,-0.02719204382352544,0.8107725770401482,1.0,0.9550858130416485,False,False,False
-asrs_inattention,rewarded_score,Rewarded Score,80,0.02714874802859682,0.8110682785150224,1.0,0.9550858130416485,False,False,False
-asrs_inattention,brier_score,Brier Score,80,-0.024877294886988775,0.8266179548911474,1.0,0.9550858130416485,False,False,False
-asrs_hyperactivity_impulsivity,calibration,Calibration,80,0.023516316844824067,0.8359672507791842,1.0,0.9550858130416485,False,False,False
-bfi10_openness,rewarded_score,Rewarded Score,80,0.022924555416167728,0.8400395613370454,1.0,0.9550858130416485,False,False,False
-asrs_hyperactivity_impulsivity,rewarded_score,Rewarded Score,80,-0.021653717987210247,0.8487991229833787,1.0,0.9550858130416485,False,False,False
-phq9_na,resolution,Resolution,80,-0.020449355171797384,0.8571174414999735,1.0,0.9550858130416485,False,False,False
-bfi10_openness,calibration,Calibration,80,0.019400827713160963,0.864372159759325,1.0,0.9550858130416485,False,False,False
-phq9_na,brier_score,Brier Score,80,-0.016985714617068354,0.8811239681620864,1.0,0.9550858130416485,False,False,False
-bapq_aloof,calibration,Calibration,80,0.016754465599028462,0.8827308272051599,1.0,0.9550858130416485,False,False,False
-phq9_na,rewarded_score,Rewarded Score,80,-0.014364881861554643,0.8993616604296478,1.0,0.9573849933605928,False,False,False
-phq9_na,calibration,Calibration,80,0.010164365712605122,0.928697024231951,1.0,0.9729206920525201,False,False,False
+bfi10_openness,resolution,Resolution,80,-0.08090457019460591,0.47558942562312684,1.0,0.961989690152056,False,False,False
+asrs_hyperactivity_impulsivity,resolution,Resolution,80,-0.07687370221713002,0.49792275507349903,1.0,0.961989690152056,False,False,False
+asrs_inattention,accuracy,Accuracy,80,0.07379716971624292,0.5153295940693227,1.0,0.961989690152056,False,False,False
+bfi10_conscientiousness,brier_score,Brier Score,80,0.07120646243193474,0.5302242366331652,1.0,0.961989690152056,False,False,False
+bfi10_conscientiousness,calibration,Calibration,80,0.06628246086293665,0.5591121533214822,1.0,0.961989690152056,False,False,False
+bfi10_conscientiousness,outcome_variance,Outcome Variance,80,0.06480042556477698,0.567951227392285,1.0,0.961989690152056,False,False,False
+bapq_pragmatic_language,accuracy,Accuracy,80,-0.06337498081312422,0.5765141462810474,1.0,0.961989690152056,False,False,False
+bfi10_openness,outcome_variance,Outcome Variance,80,-0.06299826893485573,0.5787870598295104,1.0,0.961989690152056,False,False,False
+bapq_pragmatic_language,outcome_variance,Outcome Variance,80,0.062297843683664006,0.5830240546376098,1.0,0.961989690152056,False,False,False
+phq9_na,outcome_variance,Outcome Variance,80,-0.05554970656581597,0.624551357451512,1.0,0.9732802460931703,False,False,False
+asrs_hyperactivity_impulsivity,brier_score,Brier Score,80,0.050064458014888985,0.6591990209155559,1.0,0.9732802460931703,False,False,False
+bfi10_conscientiousness,resolution,Resolution,80,0.04887136656494742,0.6668344514836911,1.0,0.9732802460931703,False,False,False
+asrs_inattention,calibration,Calibration,80,0.04781066292147518,0.6736512041582916,1.0,0.9732802460931703,False,False,False
+bfi10_agreeableness,accuracy,Accuracy,80,-0.03891197648202911,0.7318305550919011,1.0,0.9732802460931703,False,False,False
+asrs_inattention,resolution,Resolution,80,0.03698218945986579,0.7446632781685469,1.0,0.9732802460931703,False,False,False
+asrs_hyperactivity_impulsivity,outcome_variance,Outcome Variance,80,0.036843629584289786,0.7455874036044174,1.0,0.9732802460931703,False,False,False
+bapq_rigid,calibration,Calibration,80,-0.03427112926893093,0.7628086259790717,1.0,0.9732802460931703,False,False,False
+bfi10_openness,accuracy,Accuracy,80,0.03251409101310878,0.7746379609248906,1.0,0.9732802460931703,False,False,False
+bapq_pragmatic_language,resolution,Resolution,80,0.03076673387771972,0.7864532224574596,1.0,0.9732802460931703,False,False,False
+asrs_inattention,rewarded_score,Rewarded Score,80,0.029709268125081335,0.7936272647440783,1.0,0.9732802460931703,False,False,False
+bfi10_agreeableness,calibration,Calibration,80,-0.02719204382352544,0.8107725770401482,1.0,0.9732802460931703,False,False,False
+bfi10_openness,rewarded_score,Rewarded Score,80,0.025817090909892072,0.8201759433834332,1.0,0.9732802460931703,False,False,False
+asrs_inattention,brier_score,Brier Score,80,-0.024877294886988775,0.8266179548911474,1.0,0.9732802460931703,False,False,False
+asrs_hyperactivity_impulsivity,calibration,Calibration,80,0.023516316844824067,0.8359672507791842,1.0,0.9732802460931703,False,False,False
+phq9_na,resolution,Resolution,80,-0.020449355171797384,0.8571174414999735,1.0,0.9732802460931703,False,False,False
+bfi10_openness,calibration,Calibration,80,0.019400827713160963,0.864372159759325,1.0,0.9732802460931703,False,False,False
+phq9_na,brier_score,Brier Score,80,-0.016985714617068354,0.8811239681620864,1.0,0.9732802460931703,False,False,False
+bapq_aloof,calibration,Calibration,80,0.016754465599028462,0.8827308272051599,1.0,0.9732802460931703,False,False,False
+asrs_hyperactivity_impulsivity,rewarded_score,Rewarded Score,80,-0.013174819264505103,0.9076608153178845,1.0,0.9732802460931703,False,False,False
+phq9_na,calibration,Calibration,80,0.010164365712605122,0.928697024231951,1.0,0.9732802460931703,False,False,False
+bfi10_agreeableness,rewarded_score,Rewarded Score,80,0.008262562021665362,0.9420124541510164,1.0,0.9732802460931703,False,False,False
+phq9_na,rewarded_score,Rewarded Score,80,-0.007127040488400974,0.9499705993344095,1.0,0.9732802460931703,False,False,False
 asrs_hyperactivity_impulsivity,accuracy,Accuracy,80,0.006503177991552048,0.9543449868840265,1.0,0.9732802460931703,False,False,False
 phq9_na,accuracy,Accuracy,80,0.005905994051438282,0.9585335756978193,1.0,0.9732802460931703,False,False,False
 bfi10_openness,brier_score,Brier Score,80,-0.0027159366022840217,0.9809245635546783,1.0,0.9809245635546783,False,False,False

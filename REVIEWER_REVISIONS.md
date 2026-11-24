@@ -1,5 +1,7 @@
 # Reviewer revisions to the manuscript analysis
 
+> Historical revision record: reward-related estimates below predate the maximum-error normalization correction. See [REWARD_NORMALIZATION_REVIEW.md](REWARD_NORMALIZATION_REVIEW.md) and the regenerated `paper_repro_outputs` for current branch results.
+
 The strategy models, ICC reporting, and feature-distance trial inclusion have been corrected in the code, notebook, and generated outputs. The feature-distance analysis now uses testing trials only, as confirmed by the author. The manuscript file has not been edited; replacement wording below is ready to transfer to the current draft.
 
 ## Strategy analysis: BH15 and BH19–20

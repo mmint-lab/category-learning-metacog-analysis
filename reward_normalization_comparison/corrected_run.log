@@ -1,0 +1,32 @@
+Completed cell 1 after 3.1s
+Completed cell 3 after 3.6s
+Completed cell 5 after 3.7s
+Strict above-chance sensitivity sample: N=51
+Less-stringent sensitivity sample: N=64
+Completed cell 7 after 3.7s
+Completed cell 9 after 4.2s
+Completed cell 11 after 4.2s
+Completed cell 13 after 7.3s
+Completed cell 15 after 7.5s
+Completed cell 17 after 11.2s
+Completed cell 19 after 11.4s
+Nominal p < .05: 6
+Bonferroni p < .05: 0
+BH-FDR p < .05: 0
+Completed cell 21 after 11.7s
+Completed cell 23 after 11.7s
+/Users/joannadouka/Documents/Codex/2026-10-02/in/work/revision_audit_updated/venv/lib/python3.12/site-packages/scipy/stats/_continuous_distns.py:7321: RuntimeWarning: divide by zero encountered in _nct_sf
+  return np.clip(_boost._nct_sf(x, df, nc), 0, 1)
+/Users/joannadouka/Documents/Codex/2026-10-02/in/work/revision_audit_updated/venv/lib/python3.12/site-packages/scipy/stats/_continuous_distns.py:7313: RuntimeWarning: divide by zero encountered in _nct_cdf
+  return np.clip(_boost._nct_cdf(x, df, nc), 0, 1)
+Completed cell 25 after 12.4s
+Completed cell 27 after 12.4s
+Supplement pages written:
+  /Users/joannadouka/Documents/Codex/2026-10-02/in/work/reward_normalization_analysis/corrected_outputs/supplement/supplemental_table_1.pdf
+  /Users/joannadouka/Documents/Codex/2026-10-02/in/work/reward_normalization_analysis/corrected_outputs/supplement/supplemental_figure_1.pdf
+  /Users/joannadouka/Documents/Codex/2026-10-02/in/work/reward_normalization_analysis/corrected_outputs/supplement/supplemental_figure_2.pdf
+  /Users/joannadouka/Documents/Codex/2026-10-02/in/work/reward_normalization_analysis/corrected_outputs/supplement/supplemental_figure_3.pdf
+  /Users/joannadouka/Documents/Codex/2026-10-02/in/work/reward_normalization_analysis/corrected_outputs/supplement/supplemental_figure_4.pdf
+  /Users/joannadouka/Documents/Codex/2026-10-02/in/work/reward_normalization_analysis/corrected_outputs/supplement/supplemental_figure_5.pdf
+  /Users/joannadouka/Documents/Codex/2026-10-02/in/work/reward_normalization_analysis/corrected_outputs/supplement/supplemental_figure_6.pdf
+Completed cell 29 after 38.1s

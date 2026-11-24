@@ -1,0 +1,37 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "versions": {
+    "numpy": "1.26.2",
+    "pandas": "2.1.3",
+    "scipy": "1.11.3",
+    "statsmodels": "0.14.0",
+    "pingouin": "0.5.3"
+  },
+  "data_sha256": {
+    "questionnaire_data.csv": "5e9e13df1e4a16f2ee32b455fd67ba1181084feda10204ff312521376682bf5f",
+    "questionnaire_overall_scores.csv": "e35c041d91c772f31ba54865e1f1dbb6d8430f65868f9180845349f69533150c",
+    "questionnaire_subscale_scores.csv": "0d8484e6a733cfd52efcaf5fbaa2284ed5640c5a0324475c613c524b9828d627",
+    "task_data_initial_test.csv": "1db8fe5a73db4d3337f7a55a4f12c056cd78f4ceddb8d6d39f689b99c21dd0f8",
+    "task_data_retest_1.csv": "34dd19982b4732da428c007983e50e5e99bcf6511584cbfa48e7d2297109ca6d",
+    "task_data_retest_2.csv": "49bba8f017685a564e799e99a6e88e436a5b217f6f129a62b14abaff6ceda491"
+  },
+  "scoring_sha256": "072c2b1c1f4291645ad2d57e6d5386c0fd22a308bd40a161017bdbf9d06662a0",
+  "code_cells_executed": [
+    1,
+    3,
+    5,
+    7,
+    9,
+    11,
+    13,
+    15,
+    17,
+    19,
+    21,
+    23,
+    25,
+    27,
+    29
+  ],
+  "elapsed_seconds": 38.19575619697571
+}

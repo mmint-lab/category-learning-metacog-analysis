@@ -147,6 +147,12 @@ def convertCalibration(estimates, outcomes, n_keys=4):
     """Calculates calibration and converts it to a 0-1 scale, where 0 is the worst possible calibration and
        1 is the best possible calibration.
 
+    The maximum error holds the participant's confidence keys and bin counts
+    fixed. All mapped probabilities exceed .5, so every bin's squared error
+    is maximized when all outcomes in that bin are incorrect. This is the
+    retrospective analysis normalization, not a reconstruction of the score
+    displayed by the historical webapp or of bonuses actually paid.
+
     Args:
         estimates (list or numpy.array): vector of trial-by-trial confidence estimates.
         outcomes (list or numpy.array): vector of trial by trial outcomes.
@@ -155,8 +161,8 @@ def convertCalibration(estimates, outcomes, n_keys=4):
     Returns:
         float: converted calibration score
     """
-    estimates_worst = estimates<2
-    calibration_worst = calcCalibration(estimates, estimates_worst, n_keys=n_keys)
+    outcomes_worst = np.zeros_like(estimates, dtype=float)
+    calibration_worst = calcCalibration(estimates, outcomes_worst, n_keys=n_keys)
     calibration = calcCalibration(estimates, outcomes, n_keys=n_keys)
 
     calibration_converted_score = 1 - (calibration / calibration_worst)
